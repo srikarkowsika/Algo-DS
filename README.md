@@ -1,2 +1,2 @@
 # Algo-DS
-Repo is for algo &amp; ds related problems. 
+Repo is for Algo &amp; Ds related problems. 
